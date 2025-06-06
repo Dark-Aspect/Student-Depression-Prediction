@@ -1,7 +1,7 @@
 # Student Depression Prediction Project
 
 <div style="text-align: center;">
-  <img src="images/Depressed_Student.png" alt="Depressed Student Illustration" width="600"/>
+  <img src="Images/Depressed_Student.png" alt="Depressed Student Illustration" width="600"/>
 </div>
 
 ## Project Overview
@@ -68,11 +68,11 @@ We analyze the dataset through univariate, bivariate, and multivariate approache
 
 Below are the boxplots of the continuous numerical variables
 
-![Distribution_by_Depression_Status](images/Distribution_by_Depression_Status.png)
+![Distribution_by_Depression_Status](Images/Distribution_by_Depression_Status.png)
 
 Here is the heatmap showing the correlation between all the variable after encoding
 
-![Correlation Heatmap](images/Correlation_Heatmap.png)
+![Correlation Heatmap](Images/Correlation_Heatmap.png)
 
 ### Step 3: SQL-Based Analysis
 
@@ -84,7 +84,7 @@ An interactive dashboard is developed to present key findings visually. It inclu
 
 Here is a screenshot of the completed Dashboard
 
-![Excel Dashboard](images/Dashboard.png)
+![Excel Dashboard](Images/Dashboard.png)
 
 ### Step 5: Modeling and Hyperparameter Tuning
 
@@ -92,11 +92,11 @@ This step involves building and evaluating three classification models: Logistic
 
 Below is the Confusion Matrix for the best model Gradient Boosting Classifier
 
-![Confusion Matrix](images/Confusion_Matrix.png)
+![Confusion Matrix](Images/Confusion_Matrix.png)
 
 Also here is the feature importance ranking for the Gradient Boosting Classifier
 
-![Barplot of feature importances](images/Feature_Importance_Ranking.png)
+![Barplot of feature importances](Images/Feature_Importance_Ranking.png)
 
 ### Model Comparison
 
